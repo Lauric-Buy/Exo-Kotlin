@@ -1,3 +1,4 @@
 fun main() {
-    // put your code here
+    val numb = "10"+" " + "11"
+    print(numb)
 }
