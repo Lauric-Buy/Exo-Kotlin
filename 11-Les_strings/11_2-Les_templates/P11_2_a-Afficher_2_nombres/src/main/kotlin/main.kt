@@ -1,4 +1,5 @@
 fun main() {
-    val numb = "10"+" " + "11"
-    print(numb)
+    val a = 22
+    val b = 33
+    println("$a $b")
 }
